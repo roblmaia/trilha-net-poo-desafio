@@ -12,3 +12,8 @@ Nokia n1 = new Nokia("(42)9 8888-8888","N10","ABC123456",256);
 n1.InstalarAplicativo("Netflix");
 n1.ReceberLigacao();
 n1.DadosSmartphone();
+
+
+n1.Numero = ("9978585");
+
+n1.DadosSmartphone();
